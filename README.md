@@ -39,7 +39,9 @@ Data cleaning steps included:
 # Visualization
 Charts were created using ggplot2 to show:
 •	Monthly sales trend 
+![Monthly Sales Trend](Monthly_Sales_Trend.png)
 •	Sales by category
+![Sales by Category](Sales_by_Category.png)
 
 # Conclusion
 This analysis shows how data cleaning and exploratory analysis can uncover important business insights. The results indicate that June had the highest sales, while Technology was the top-performing category, making them key drivers of revenue in this dataset. 

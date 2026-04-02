@@ -38,8 +38,10 @@ Data cleaning steps included:
 
 # Visualization
 Charts were created using ggplot2 to show:
+
 •	Monthly sales trend 
 ![Monthly Sales Trend](Monthly_Sales_Trend.png)
+
 •	Sales by category
 ![Sales by Category](Sales_by_Category.png)
 
